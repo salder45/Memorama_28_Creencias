@@ -1,6 +1,23 @@
 fileFormatVersion: 2
 guid: c5bd66772ee086c409063645cb6fb881
 TextureImporter:
+  fileIDToRecycleName:
+    21300000: playcardsFront_0
+    21300002: playcardsFront_1
+    21300004: playcardsFront_2
+    21300006: playcardsFront_3
+    21300008: playcardsFront_4
+    21300010: playcardsFront_5
+    21300012: playcardsFront_6
+    21300014: playcardsFront_7
+    21300016: playcardsFront_8
+    21300018: playcardsFront_9
+    21300020: playcardsFront_10
+    21300022: playcardsFront_11
+    21300024: playcardsFront_12
+    21300026: playcardsFront_13
+    21300028: playcardsFront_14
+    21300030: playcardsFront_15
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -14,11 +31,14 @@ TextureImporter:
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
   grayScaleToAlpha: 0
   generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -3
   maxTextureSize: 1024
@@ -29,12 +49,14 @@ TextureImporter:
     wrapMode: 1
   nPOTScale: 0
   lightmap: 0
+  rGBM: 0
   compressionQuality: 50
+  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 1
   alphaIsTransparency: 1
@@ -52,6 +74,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: 128}
+        - {x: -128, y: 123}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 123}
+        - {x: 123, y: 128}
     - name: playcardsFront_1
       rect:
         serializedVersion: 2
@@ -62,6 +91,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: 128}
+        - {x: -128, y: 123}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 123}
+        - {x: 123, y: 128}
     - name: playcardsFront_2
       rect:
         serializedVersion: 2
@@ -72,6 +108,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: 128}
+        - {x: -128, y: 123}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 123}
+        - {x: 123, y: 128}
     - name: playcardsFront_3
       rect:
         serializedVersion: 2
@@ -82,6 +125,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: 128}
+        - {x: -128, y: 123}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 123}
+        - {x: 123, y: 128}
     - name: playcardsFront_4
       rect:
         serializedVersion: 2
@@ -92,6 +142,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: 128}
+        - {x: -128, y: 123}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 123}
+        - {x: 123, y: 128}
     - name: playcardsFront_5
       rect:
         serializedVersion: 2
@@ -102,6 +159,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: 128}
+        - {x: -128, y: 123}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 123}
+        - {x: 123, y: 128}
     - name: playcardsFront_6
       rect:
         serializedVersion: 2
@@ -112,6 +176,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: 128}
+        - {x: -128, y: 123}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 123}
+        - {x: 123, y: 128}
     - name: playcardsFront_7
       rect:
         serializedVersion: 2
@@ -122,6 +193,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: 128}
+        - {x: -128, y: 123}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 123}
+        - {x: 123, y: 128}
     - name: playcardsFront_8
       rect:
         serializedVersion: 2
@@ -132,6 +210,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: 128}
+        - {x: -128, y: 123}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 123}
+        - {x: 123, y: 128}
     - name: playcardsFront_9
       rect:
         serializedVersion: 2
@@ -142,6 +227,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: 128}
+        - {x: -128, y: 123}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 123}
+        - {x: 123, y: 128}
     - name: playcardsFront_10
       rect:
         serializedVersion: 2
@@ -152,6 +244,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: 128}
+        - {x: -128, y: 123}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 123}
+        - {x: 123, y: 128}
     - name: playcardsFront_11
       rect:
         serializedVersion: 2
@@ -162,6 +261,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: 128}
+        - {x: -128, y: 123}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 123}
+        - {x: 123, y: 128}
     - name: playcardsFront_12
       rect:
         serializedVersion: 2
@@ -172,6 +278,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: 128}
+        - {x: -128, y: 123}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 123}
+        - {x: 123, y: 128}
     - name: playcardsFront_13
       rect:
         serializedVersion: 2
@@ -182,6 +295,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: 128}
+        - {x: -128, y: 123}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 123}
+        - {x: 123, y: 128}
     - name: playcardsFront_14
       rect:
         serializedVersion: 2
@@ -192,6 +312,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: 128}
+        - {x: -128, y: 123}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 123}
+        - {x: 123, y: 128}
     - name: playcardsFront_15
       rect:
         serializedVersion: 2
@@ -202,5 +329,15 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: 128}
+        - {x: -128, y: 123}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 123}
+        - {x: 123, y: 128}
+    outline: []
   spritePackingTag: 
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 
